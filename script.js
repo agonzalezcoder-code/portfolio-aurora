@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         event.preventDefault();
     
-        window.open("assets/CV/Aurora-Gonzalez-CV.pdf", "_blank");
+        window.open("assets/CV/AuroraGonzalez-CV-ATS.pdf", "_blank");
     
     });
 
